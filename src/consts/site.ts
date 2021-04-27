@@ -1,1 +1,1 @@
-export const SITE_NAME = 'react-codemirror-test';
+export const SITE_NAME = 'nextjs-codemirror-test';

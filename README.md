@@ -1,1 +1,5 @@
-# react-codemirror-test
+# nextjs-codemirror-test
+
+## Using packages
+
+- [CodeMirror](https://codemirror.net/)
